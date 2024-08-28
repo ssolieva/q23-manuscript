@@ -1,0 +1,3700 @@
+0 1ad0
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1ad0.pdb,TRDRGLRFYFDY
+[3, 4, 5, 6] [3]
+[] []
+1 1ad9
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1ad9.pdb,AREKTTYYYAMDY
+[4, 5, 6] [4]
+[] []
+2 1aqk
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1aqk.pdb,ARVLFQQLVLYAPFDI
+[3, 4, 5, 6, 7] [3]
+[] []
+3 1b4j
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1b4j.pdb,ARGFLPWFAD
+[3, 4, 5] [3]
+[] []
+4 1bey
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1bey.pdb,AREGHTAAPFDY
+[4, 5] [4]
+[] []
+5 1dfb
+[4, 8, 9, 14] [4, 8, 14]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1dfb.pdb,VKGRDYYDSGGYFTVAFDI
+[4, 8, 9, 14] [4, 8, 14]
+[] []
+6 1dn0
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1dn0.pdb,ARPPHDTSGHYWNY
+[3, 4, 5, 6] [3]
+[] []
+7 1dql
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1dql.pdb,ARGNPPYSSGWGGGDY
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+8 1fgv
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1fgv.pdb,ARWRGLDVRYFDV
+[4, 5, 6, 7] [4]
+[] []
+9 1fvc
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1fvc.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+10 1fvd
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1fvd.pdb,SRWGGDGFYAMDV
+[3, 4, 5, 6] [3]
+[] []
+11 1fve
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1fve.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+12 1hzh
+[7, 10, 11, 12, 13, 14, 15] [7, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1hzh.pdb,ARVGPYSWDDSPQDNYYMDV
+[7, 10, 11, 12, 13, 14, 15] [7, 10]
+[] []
+13 1igm
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1igm.pdb,AKHRVSYVLTGFDS
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+14 1jpt
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1jpt.pdb,ARDTAAYFDY
+[3, 4, 5] [3]
+[] []
+15 1jv5
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1jv5.pdb,AGQYGNLWFAY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+16 1l7i
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1l7i.pdb,ARNLGPSFYFDY
+[4, 5, 6] [4]
+[] []
+17 1mim
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1mim.pdb,SRDYGYYFDF
+[3, 4, 5] [3]
+[] []
+18 1om3
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1om3.pdb,ARKGSDRLSDNDPFDA
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+19 1opg
+[8, 9] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1opg.pdb,TRHPFYRYDGGNYYAMDH
+[8, 9] [8]
+[] []
+20 1qlr
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1qlr.pdb,ARPPHDTSGHYWNY
+[5, 6] [5]
+[] []
+21 1rhh
+[6, 7, 8, 9, 10, 13, 14] [6, 13]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1rhh.pdb,ARDFGPDWEDGDSYDGSGRGFFDF
+[6, 7, 8, 9, 10, 13, 14] [6, 13]
+[] []
+22 1rz7
+[2, 3, 4, 7] [2, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1rz7.pdb,AADPWELNAFNV
+[2, 3, 4, 7] [2, 7]
+[] []
+23 1rz8
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1rz8.pdb,AGVYEGEADEGEYDNNGFLKH
+[5, 6, 7, 8, 9] [5]
+[] []
+24 1rzf
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1rzf.pdb,ASNSIAGGYYYDMDV
+[4, 5, 6, 7, 8] [4]
+[] []
+25 1rzg
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1rzg.pdb,ASPYPNDGMSWYFDL
+[5, 6] [5]
+[] []
+26 1t04
+[2, 3, 4, 5] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1t04.pdb,ARGFLPWFAD
+[2, 3, 4, 5] [2]
+[] []
+27 1t3f
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1t3f.pdb,ARGFLPWFAD
+[3, 4, 5] [3]
+[] []
+28 1u6a
+[3, 6, 7, 8, 9] [3, 6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1u6a.pdb,ARGPVPAVFYGDYRLDP
+[3, 6, 7, 8, 9] [3, 6]
+[] []
+29 1ucb
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1ucb.pdb,ARGLDDGAWFAY
+[3, 4, 5] [3]
+[] []
+30 1vge
+[2, 3, 4, 5, 6] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1vge.pdb,ARDPYGGGKSEFDY
+[2, 3, 4, 5, 6] [2]
+[] []
+31 1wt5
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/1wt5.pdb,ARSGGPYFFDY
+[3, 4, 5, 6] [3]
+[] []
+32 2a9m
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2a9m.pdb,ARRSYDSSGYWGHFYSYMDV
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] [3]
+[] []
+33 2agj
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2agj.pdb,ARTSGWDIEFEY
+[3, 4, 5, 6] [3]
+[] []
+34 2aj3
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2aj3.pdb,ARYHRHFIRGPLSFDY
+[5, 6, 7] [5]
+[] []
+35 2f5a
+[6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2f5a.pdb,AHRRGPTTLAAAAAAAGPVNAMDV
+[6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19] [6]
+[] []
+36 2fb4
+[4, 5, 9, 10, 11] [4, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2fb4.pdb,ARDGGHGFCSSASCFGPDY
+[4, 5, 9, 10, 11] [4, 9]
+[] []
+37 2fjf
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2fjf.pdb,ARFVFFLPYAMDY
+[4, 5, 6, 7, 8] [4]
+[] []
+38 2g75
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2g75.pdb,ARDTVMGGMDV
+[3, 4, 5] [3]
+[] []
+39 2hff
+[5] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2hff.pdb,ARRVCYAGGMDY
+[5] [5]
+[] []
+40 2ig2
+[4, 5, 9, 10, 11] [4, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2ig2.pdb,ARDGGHGFCSSASCFGPDY
+[4, 5, 9, 10, 11] [4, 9]
+[] []
+41 2pr4
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2pr4.pdb,AHRRGPGPVNAMDV
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+42 2vxv
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2vxv.pdb,ARVGSGWYPYTFDI
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+43 2xa8
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2xa8.pdb,ARGSHYFGHWHFAV
+[4, 5, 6, 7] [4]
+[] []
+44 2xza
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/2xza.pdb,AGLTQSSHNDAN
+[3, 4, 5, 6] [3]
+[] []
+45 3aaz
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3aaz.pdb,ARRGFYGRKYEVNHFDY
+[6, 7, 8] [6]
+[] []
+46 3auv
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3auv.pdb,ARFVFFLPYAMDY
+[4, 5, 6, 7, 8] [4]
+[] []
+47 3dgg
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3dgg.pdb,AREDYYGSRWGY
+[3, 4, 5, 6, 7] [3]
+[] []
+48 3dif
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3dif.pdb,ARGNYDRAWFAY
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+49 3eo9
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3eo9.pdb,ARGIYFYGTTYFDY
+[5, 6, 7] [5]
+[] []
+50 3eyo
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3eyo.pdb,ARDGKYSGLLDY
+[3, 4, 5] [3]
+[] []
+51 3eyq
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3eyq.pdb,AKDGKSGLLDY
+[3, 4, 5, 6] [3]
+[] []
+52 3f12
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3f12.pdb,AKDGSGLLDY
+[3, 4, 5] [3]
+[] []
+53 3g6a
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3g6a.pdb,ARGLGAFHWDMQPDY
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+54 3giz
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3giz.pdb,AKDIQYGNYYYGMDV
+[5, 6, 7] [5]
+[] []
+55 3gje
+[2, 3, 4, 5, 6] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3gje.pdb,AGELLPYYGMDV
+[2, 3, 4, 5, 6] [2]
+[] []
+56 3gkw
+[4, 5, 10, 11, 12, 13] [4, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3gkw.pdb,TRQGLWFDSDGRGFDF
+[4, 5, 10, 11, 12, 13] [4, 10]
+[] []
+57 3hi5
+[2, 3, 4, 5, 6, 7, 8] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3hi5.pdb,ASSYDFWSNAFDI
+[2, 3, 4, 5, 6, 7, 8] [2]
+[] []
+58 3hmw
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3hmw.pdb,ARRRPGQGYFDF
+[3, 4, 5] [3]
+[] []
+59 3inu
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3inu.pdb,VREGPRATGYSMADVFDI
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+60 3juy
+[6, 7, 8, 9, 10, 11, 12, 13, 14, 15] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3juy.pdb,ARVGEWGWDDSPYDNYYMDV
+[6, 7, 8, 9, 10, 11, 12, 13, 14, 15] [6]
+[] []
+61 3kyk
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3kyk.pdb,AREGHNDWYFDL
+[3, 4, 5, 6, 7] [3]
+[] []
+62 3kym
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3kym.pdb,AREGHNDWYFDL
+[4, 5, 6] [4]
+[] []
+63 3l7f
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3l7f.pdb,ARMGSDYDVWFDY
+[3, 4, 5, 6] [3]
+[] []
+64 3lmj
+[2, 3, 4, 7, 8, 9] [2, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3lmj.pdb,ATGGNYYNLWTGYYPLAY
+[2, 3, 4, 7, 8, 9] [2, 7]
+[] []
+65 3m8o
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3m8o.pdb,VIRGDVYNRQ
+[3, 4, 5, 6] [3]
+[] []
+66 3n9g
+[6, 7, 8, 9, 10] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3n9g.pdb,ARDWGSNYVWGSYPKY
+[6, 7, 8, 9, 10] [6]
+[] []
+67 3na9
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3na9.pdb,ARELYQGYMDTFDS
+[5, 6, 7] [5]
+[] []
+68 3naa
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3naa.pdb,ARQLYQGYMDTFDS
+[5, 6, 7] [5]
+[] []
+69 3nab
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3nab.pdb,ARELYQGYMDTFDS
+[5, 6, 7] [5]
+[] []
+70 3nac
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3nac.pdb,ARQLYQGYMDTFDS
+[5, 6, 7] [5]
+[] []
+71 3ncj
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3ncj.pdb,ARQLYQGYMDTFDS
+[5, 6, 7] [5]
+[] []
+72 3oaz
+[5, 9] [5, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3oaz.pdb,ARKGSDRLSDNDPFDA
+[5, 9] [5, 9]
+[] []
+73 3p0v
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3p0v.pdb,ARESRVSFEAAMDY
+[4, 5, 6, 7] [4]
+[] []
+74 3piq
+[9, 10, 11, 12] [9]
+[7] [7]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3piq.pdb,AKDKGDSDYDYNLGYSYFYYMDG
+[9, 10, 11, 12] [9]
+[7] [7]
+75 3q6f
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3q6f.pdb,AKDKGDSDDNLGYSYFYYMDG
+[8, 9, 10] [8]
+[] []
+76 3qct
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qct.pdb,ARRFGYYGSGNYFDY
+[5, 6, 7] [5]
+[] []
+77 3qeg
+[2, 3, 4, 5, 6, 7] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qeg.pdb,ASDSRDFSHYYNIMDV
+[2, 3, 4, 5, 6, 7] [2]
+[] []
+78 3qeh
+[3, 4, 8, 9, 10, 11, 12] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qeh.pdb,ARDLEMRDGNNHGSHLEF
+[3, 4, 8, 9, 10, 11, 12] [3, 8]
+[] []
+79 3qhf
+[5, 6, 7, 11, 12, 13] [5, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qhf.pdb,ARTLRVSGDYVRDFDL
+[5, 6, 7, 11, 12, 13] [5, 11]
+[] []
+80 3qhz
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qhz.pdb,ARTLRVYVRDFDL
+[4, 5, 6] [4]
+[] []
+81 3qnx
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qnx.pdb,VIRGDVYNRQ
+[4, 5, 6, 7] [4]
+[] []
+82 3qo1
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qo1.pdb,VIRGDVYNRQ
+[3, 4, 5, 6, 7] [3]
+[] []
+83 3qos
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qos.pdb,AKYDGIYGELDF
+[3, 4, 5, 6] [3]
+[] []
+84 3qot
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qot.pdb,ARYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+85 3qrg
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3qrg.pdb,ARLYGFTYGFAY
+[4, 5, 6, 7] [4]
+[] []
+86 3rpi
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3rpi.pdb,ARQRSDFWDFDV
+[4, 5, 6] [4]
+[] []
+87 3tcl
+[8, 9, 10, 14, 15, 16, 21] [8, 14, 21]
+[12] [12]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3tcl.pdb,ARGTDYTIDDQGIRYQGSGTFWYFDV
+[8, 9, 10, 14, 15, 16, 21] [8, 14, 21]
+[12] [12]
+88 3tnm
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3tnm.pdb,ARGTRLRTLRNAFDI
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+89 3tnn
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3tnn.pdb,AKDLRLGGGSDY
+[3, 4, 5, 6] [3]
+[] []
+90 3u1s
+[9, 15, 26] [9, 15, 26]
+[7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20] [7, 16]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3u1s.pdb,LTGSKHRLRDYFLNEGPNYEEWGDYLATLDV
+[9, 15, 26] [9, 15, 26]
+[7, 8, 9, 10, 11, 12, 16, 17, 18, 19, 20] [7, 16]
+91 3u36
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3u36.pdb,VREAGGPDYYNYHYMDV
+[5, 6, 7, 8] [5]
+[] []
+92 3u46
+[8, 9, 10, 14, 15, 16, 20, 21] [8, 14, 20]
+[12] [12]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3u46.pdb,ARGTDYTIDDQGIRYQGSGTFWYFDV
+[8, 9, 10, 14, 15, 16, 20, 21] [8, 14, 20]
+[12] [12]
+93 3u4b
+[8, 9, 10, 14, 15, 16, 20, 21] [8, 14, 20]
+[12] [12]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3u4b.pdb,ARGTDYTIDDQGIRYQGSGTFWYFDV
+[8, 9, 10, 14, 15, 16, 20, 21] [8, 14, 20]
+[12] [12]
+94 3u6r
+[6, 9, 10, 11] [6, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3u6r.pdb,ARVVIPNAIRHTMGYYFDY
+[6, 9, 10, 11] [6, 9]
+[] []
+95 3u7w
+[3, 6, 7, 8, 12, 13] [3, 6, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3u7w.pdb,TRGKYCTARDYYNWDFEH
+[3, 6, 7, 8, 12, 13] [3, 6, 12]
+[] []
+96 3uls
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3uls.pdb,ARYSYPFYSIDY
+[3, 4, 5, 6] [3]
+[] []
+97 3w9d
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3w9d.pdb,ARDLTTLTSYNWWDL
+[5, 6, 7] [5]
+[] []
+98 3x3g
+[5, 6, 7, 8, 9, 10, 11, 12, 13] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3x3g.pdb,ARSYGSGSYYRDYYYGMDV
+[5, 6, 7, 8, 9, 10, 11, 12, 13] [5]
+[] []
+99 3zl4
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/3zl4.pdb,AGLTQSSHNDAN
+[3, 4, 5, 6] [3]
+[] []
+100 4buh
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4buh.pdb,ARLGGQLWNSYYYYYYMDV
+[5, 6, 7, 8, 9] [5]
+[] []
+101 4d9l
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4d9l.pdb,ATSGVGLHFGYFDY
+[4, 5, 6] [4]
+[] []
+102 4dn3
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4dn3.pdb,ARYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+103 4eow
+[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4eow.pdb,ATRPPRFYDKTEYWEDGFDV
+[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15] [5]
+[] []
+104 4evn
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4evn.pdb,AKHMGYQVRETMDV
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+105 4f57
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4f57.pdb,AKHRSQWNFWPREGGLDH
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+106 4f58
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4f58.pdb,AKHRSQWNFWPREGGLDH
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+107 4fnl
+[3, 8, 9, 10, 11, 16] [3, 8, 16]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fnl.pdb,AKHMSMQQVVSAGWERADLVGDAFDV
+[3, 8, 9, 10, 11, 16] [3, 8, 16]
+[] []
+108 4fq1
+[10, 11, 12, 13, 14] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fq1.pdb,ARTLHGRRIYGIVAFNEWFTYFYMDV
+[10, 11, 12, 13, 14] [10]
+[] []
+109 4fq2
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fq2.pdb,ATARRGQRIYGVVSFGEFFYYYSMDV
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+110 4fqc
+[10, 11, 12, 13, 14] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fqc.pdb,ARTLHGRRIYGIVAFNEWFTYFYMDV
+[10, 11, 12, 13, 14] [10]
+[] []
+111 4fqh
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fqh.pdb,ARHGNYYYYSGMDV
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+112 4fql
+[3, 8, 9, 10] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fql.pdb,AKDRLESSAMDILEGGTFDI
+[3, 8, 9, 10] [3, 8]
+[] []
+113 4fqq
+[10, 11, 12, 13, 14] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fqq.pdb,ARTQQGKRIYGVVSFGDYYYYYYMDV
+[10, 11, 12, 13, 14] [10]
+[] []
+114 4fze
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4fze.pdb,AGTVYYDILTGLYTNFHY
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+115 4g5z
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4g5z.pdb,ARDLRTGPFDY
+[3, 4, 5] [3]
+[] []
+116 4g6k
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4g6k.pdb,ARNRYDPPWFVD
+[4, 5, 6] [4]
+[] []
+117 4gsd
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4gsd.pdb,ARVALFDILTGGWFDP
+[6, 7, 8] [6]
+[] []
+118 4gw4
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4gw4.pdb,ARQRSDFWDFDV
+[4, 5, 6] [4]
+[] []
+119 4gxv
+[3, 4, 5, 8, 9, 10] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4gxv.pdb,ARELLMDYYDHIGYSPGPT
+[3, 4, 5, 8, 9, 10] [3, 8]
+[] []
+120 4hfw
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4hfw.pdb,ARGVVGATNEIDF
+[4, 5, 6] [4]
+[] []
+121 4hh9
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4hh9.pdb,AREGLSRDNSGFTGLIDY
+[5, 6, 7, 8, 9] [5]
+[] []
+122 4hie
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4hie.pdb,AKEGGDNKFSFDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+123 4hk0
+[4] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4hk0.pdb,ARGGLYYYGMDV
+[4] [4]
+[] []
+124 4hk3
+[5, 8, 9, 10] [5, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4hk3.pdb,ARGGLEPRSVDYYYYGMDV
+[5, 8, 9, 10] [5, 8]
+[] []
+125 4hqq
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4hqq.pdb,ARLGGGYYYLDY
+[4, 5, 6] [4]
+[] []
+126 4hwe
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4hwe.pdb,ARMPNWGSFDY
+[3, 4, 5] [3]
+[] []
+127 4imk
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4imk.pdb,ARSPNPYYYDSSGYYYPGAFDI
+[4, 5, 6, 7, 8] [4]
+[] []
+128 4iml
+[4, 5, 6, 9, 10, 11, 15, 16, 17] [4, 9, 15]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4iml.pdb,ARSPNPYYYDSSGYYYPGAFDI
+[4, 5, 6, 9, 10, 11, 15, 16, 17] [4, 9, 15]
+[] []
+129 4jam
+[4, 7, 8, 9] [4, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jam.pdb,ASLPRGQLVNAYFRN
+[4, 7, 8, 9] [4, 7]
+[] []
+130 4jdv
+[3, 4, 5, 6, 7, 8, 9, 12] [3, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jdv.pdb,ARGKYCTARDYYNWDFQH
+[3, 4, 5, 6, 7, 8, 9, 12] [3, 12]
+[] []
+131 4jha
+[9] [9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jha.pdb,ATETALVVSTTYLPHYFDN
+[9] [9]
+[] []
+132 4jm4
+[6, 10] [6, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jm4.pdb,ARHRHHDVFMLVPIAGWFDV
+[6, 10] [6, 10]
+[] []
+133 4jpi
+[5, 6, 9] [5, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jpi.pdb,ARGKNCDYNWDFQH
+[5, 6, 9] [5, 9]
+[] []
+134 4jy4
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jy4.pdb,ARTLHGRRIYGIVAFNEWFTYFYMDV
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+135 4jy5
+[10, 11, 12, 13, 14, 15, 16] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jy5.pdb,ATTKHGRRIYGVVAFKEWFTYFYMDV
+[10, 11, 12, 13, 14, 15, 16] [10]
+[] []
+136 4jy6
+[10, 11, 12, 13, 14] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4jy6.pdb,ARALHGKRIYGIVALGELFTYFYMDV
+[10, 11, 12, 13, 14] [10]
+[] []
+137 4kmt
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4kmt.pdb,ARYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+138 4kq3
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4kq3.pdb,ARDSEYYFDH
+[3, 4, 5] [3]
+[] []
+139 4ky1
+[3, 6, 7, 8] [3, 6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ky1.pdb,ATGMWVSTGYALDF
+[3, 6, 7, 8] [3, 6]
+[] []
+140 4lkc
+[9, 10] [9]
+[12] [12]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4lkc.pdb,VREGTYYHDSGSDNYYSYGMDV
+[9, 10] [9]
+[12] [12]
+141 4llu
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4llu.pdb,ARNLGPSFYFDY
+[3, 4, 5] [3]
+[] []
+142 4llw
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4llw.pdb,ARNLGPSFYFDY
+[3, 4, 5] [3]
+[] []
+143 4lly
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4lly.pdb,ARNLGPSFYFDY
+[3, 4, 5] [3]
+[] []
+144 4lri
+[3, 7, 8, 9] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4lri.pdb,ARDRSYYAFGSLSDYYYGLDV
+[3, 7, 8, 9] [3, 7]
+[] []
+145 4lrn
+[4, 7] [4, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4lrn.pdb,AREGGWLGKPIGAFAY
+[4, 7] [4, 7]
+[] []
+146 4m5y
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4m5y.pdb,ARHVRSGYPDTAYYFDK
+[6, 7, 8] [6]
+[] []
+147 4m6m
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4m6m.pdb,ARWYYKPFDV
+[3, 4, 5, 6, 7] [3]
+[] []
+148 4m6n
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4m6n.pdb,ARWYYKPFDV
+[3, 4, 5, 6, 7] [3]
+[] []
+149 4m6o
+[6, 7] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4m6o.pdb,ARVYSSGWHVSDYFDY
+[6, 7] [6]
+[] []
+150 4nki
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nki.pdb,ARIKLGTVTTVDY
+[3, 4, 5, 6, 7] [3]
+[] []
+151 4nm4
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nm4.pdb,ARGASWDARGWSGY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+152 4npy
+[10, 11, 12, 13, 14] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4npy.pdb,ARTLHGRRIYGIVAFKEWFTYYYMDV
+[10, 11, 12, 13, 14] [10]
+[] []
+153 4nry
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nry.pdb,ARQNHYGAYYYAMDV
+[5, 6, 7, 8] [5]
+[] []
+154 4nrz
+[8, 9, 10, 11, 12, 13] [8]
+[7] [7]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nrz.pdb,ARQNHYGSGSYFYRTAYYYAMDV
+[8, 9, 10, 11, 12, 13] [8]
+[7] [7]
+155 4nug
+[3, 11, 12, 18] [3, 11, 18]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nug.pdb,ARMFQESGPPRLDRWSGRNYYYYSGMDV
+[3, 11, 12, 18] [3, 11, 18]
+[] []
+156 4nuj
+[3, 9, 10] [3, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nuj.pdb,ARMFQESGPPNYYYYSGMDV
+[3, 9, 10] [3, 9]
+[] []
+157 4nwt
+[7, 8, 9, 10] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nwt.pdb,ARGPEYYDYVWGSYRYNYFDY
+[7, 8, 9, 10] [7]
+[] []
+158 4nwu
+[7, 8, 9, 10] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nwu.pdb,ARGPEYYDYVWGSYRYNYFDY
+[7, 8, 9, 10] [7]
+[] []
+159 4nyl
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nyl.pdb,AKVSYLSTASSLDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+160 4nzu
+[7] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4nzu.pdb,ARAPDCADADCHKGAFGY
+[7] [7]
+[] []
+161 4o5l
+[1, 2, 3, 4] [1]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4o5l.pdb,AAKDYYYGLDV
+[1, 2, 3, 4] [1]
+[] []
+162 4oaw
+[5, 9, 10, 13, 14, 15, 16] [5, 9, 13]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4oaw.pdb,ARDKSDVVVVTSIRPAYYYGMDV
+[5, 9, 10, 13, 14, 15, 16] [5, 9, 13]
+[] []
+163 4ocr
+[7, 8, 9, 12, 13, 14] [7, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ocr.pdb,AKDVGDYKSPIQDPRAMVGAFDL
+[7, 8, 9, 12, 13, 14] [7, 12]
+[] []
+164 4ocs
+[3, 11, 12, 13] [3, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ocs.pdb,AKDMREYECEYWTPCIDRRGVVGIFDM
+[3, 11, 12, 13] [3, 11]
+[] []
+165 4ocw
+[3, 14, 15, 23] [3, 14, 23]
+[10, 11] [10]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ocw.pdb,ARDLRELECEEWTLNYDRGPCVDPRGVAGSFDV
+[3, 14, 15, 23] [3, 14, 23]
+[10, 11] [10]
+166 4od1
+[3, 15, 16, 23, 29] [3, 15, 23, 29]
+[8, 9, 10, 19, 20, 21, 22, 23] [8, 19]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4od1.pdb,AKDLREDECEEWWSDDFGKQLPCRKSRGVAGIFDG
+[3, 15, 16, 23, 29] [3, 15, 23, 29]
+[8, 9, 10, 19, 20, 21, 22, 23] [8, 19]
+167 4od3
+[3, 10, 11, 12, 13] [3, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4od3.pdb,AKDLREDECEEWPCRKSRGVAGVFDK
+[3, 10, 11, 12, 13] [3, 10]
+[] []
+168 4odh
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4odh.pdb,AKDLGESENGVVGAFDI
+[6, 7, 8] [6]
+[] []
+169 4org
+[3, 16, 17, 23] [3, 16, 23]
+[20] [20]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4org.pdb,AKDLREDECEEWWSDDFGKQLPCRKSRGVAGIFDK
+[3, 16, 17, 23] [3, 16, 23]
+[20] [20]
+170 4osu
+[3, 8, 9, 10, 11] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4osu.pdb,ARDGAKTVSNSLLYYHNRLDA
+[3, 8, 9, 10, 11] [3, 8]
+[] []
+171 4p9m
+[5, 6, 7, 8, 9, 10, 13, 14, 15] [5, 13]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4p9m.pdb,TTTSTYDKWSGLHHDGVMAFSS
+[5, 6, 7, 8, 9, 10, 13, 14, 15] [5, 13]
+[] []
+172 4ptt
+[7, 8] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ptt.pdb,AKESDSCGGDCSRFAFDV
+[7, 8] [7]
+[] []
+173 4pub
+[4, 5, 8] [4, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4pub.pdb,AYRRIRDEFDI
+[4, 5, 8] [4, 8]
+[] []
+174 4py7
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4py7.pdb,ARDLGGYFIRGIMDV
+[3, 4, 5, 6] [3]
+[] []
+175 4qf1
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4qf1.pdb,AKDSPRGELPFDY
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+176 4qhk
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4qhk.pdb,ASLPRGQLVNAYFDY
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+177 4qhl
+[4, 7, 8, 9] [4, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4qhl.pdb,ASLPRGQLVNAFFDN
+[4, 7, 8, 9] [4, 7]
+[] []
+178 4qhm
+[4, 7, 8, 9] [4, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4qhm.pdb,ASLPRGQLVNAFFDN
+[4, 7, 8, 9] [4, 7]
+[] []
+179 4qhn
+[4, 7, 8, 9] [4, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4qhn.pdb,ASLPRGQLVNAYFRN
+[4, 7, 8, 9] [4, 7]
+[] []
+180 4qxg
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4qxg.pdb,ARHDIEGFDY
+[3, 4, 5] [3]
+[] []
+181 4r26
+[10, 11, 12, 13, 14] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4r26.pdb,ATARRGQRIYGVVSFGEFFYYYYMDV
+[10, 11, 12, 13, 14] [10]
+[] []
+182 4r4b
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4r4b.pdb,ARRSNWPYLPFDP
+[3, 4, 5, 6] [3]
+[] []
+183 4r7d
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4r7d.pdb,ARKDPSDAFPY
+[3, 4, 5, 6] [3]
+[] []
+184 4r7n
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4r7n.pdb,ARKDSGNYFPY
+[3, 4, 5, 6] [3]
+[] []
+185 4rir
+[6, 7, 8, 9, 10] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4rir.pdb,ARLGGRYYYDSSGYYYFDY
+[6, 7, 8, 9, 10] [6]
+[] []
+186 4rqq
+[9, 13, 14, 15, 19] [9, 13, 19]
+[7, 8, 9, 10, 11, 20, 21, 22] [7, 20]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4rqq.pdb,AKGSKHRLRDYALDDDGALNWAVDVDYLSNLEF
+[9, 13, 14, 15, 19] [9, 13, 19]
+[7, 8, 9, 10, 11, 20, 21, 22] [7, 20]
+187 4toy
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4toy.pdb,AKGLLRDGSSTWLPYL
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+188 4ub0
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ub0.pdb,SRWGGDGFYAMDY
+[4, 5] [4]
+[] []
+189 4ut7
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18] [2, 16]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ut7.pdb,VRDGVRFYYDSTGYYPDSFFKYGMDV
+[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18] [2, 16]
+[] []
+190 4uv4
+[10, 11, 12] [10]
+[7, 8, 15] [7, 15]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4uv4.pdb,TTDQLGYDFWNGYYTDTLYYYFGMDV
+[10, 11, 12] [10]
+[7, 8, 15] [7, 15]
+191 4wuk
+[3, 7, 8, 9, 10, 11] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4wuk.pdb,ARGGLEPRSVDYYYYGMDV
+[3, 7, 8, 9, 10, 11] [3, 7]
+[] []
+192 4x0k
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4x0k.pdb,ARRGGSSHYYAMDY
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+193 4x4x
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4x4x.pdb,SRWGGDGFYAMDV
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+194 4x4y
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4x4y.pdb,SRWGGDGFYAMDV
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+195 4x7s
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4x7s.pdb,ARGSHYFGHWHFAV
+[4, 5, 6, 7] [4]
+[] []
+196 4x7t
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4x7t.pdb,ARGSHYFGHWHFAV
+[4, 5, 6, 7] [4]
+[] []
+197 4xbp
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4xbp.pdb,AREGTTGWGWLGKPIGAFAH
+[5, 6, 7, 8, 9] [5]
+[] []
+198 4xcc
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4xcc.pdb,AREGTTGWGWLGKPIGAFAH
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+199 4xce
+[6, 7, 8, 9, 10] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4xce.pdb,AREGTTGWGWLGKPIGAFAH
+[6, 7, 8, 9, 10] [6]
+[] []
+200 4xml
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4xml.pdb,ARENADYGSDYYFGMDV
+[5, 6, 7, 8] [5]
+[] []
+201 4ygv
+[2, 3, 4, 5, 6, 7] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4ygv.pdb,TIGTSGYDYFDY
+[2, 3, 4, 5, 6, 7] [2]
+[] []
+202 4yhl
+[2, 3, 4, 5, 6, 7] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4yhl.pdb,TIGTSGYDYFDY
+[2, 3, 4, 5, 6, 7] [2]
+[] []
+203 4yhn
+[2, 3, 4, 5, 6] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4yhn.pdb,TIGTSGWDYFDY
+[2, 3, 4, 5, 6] [2]
+[] []
+204 4yhy
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4yhy.pdb,AREFHSGLGWHFDL
+[5, 6, 7] [5]
+[] []
+205 4zd3
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4zd3.pdb,ARPHYYDSLDAFDI
+[3, 4, 5, 6] [3]
+[] []
+206 4zyk
+[5] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/4zyk.pdb,ARDRIVYYYGMDV
+[5] [5]
+[] []
+207 5awn
+[3, 7, 8, 9, 12, 13, 14, 15, 16] [3, 7, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5awn.pdb,ARSMRPVDHGIDYSGLFVFHF
+[3, 7, 8, 9, 12, 13, 14, 15, 16] [3, 7, 12]
+[] []
+208 5aze
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5aze.pdb,ARDDPGGGEYYFDY
+[4, 5, 6] [4]
+[] []
+209 5bk5
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5bk5.pdb,TTLLILESDVGVDY
+[6, 7, 8] [6]
+[] []
+210 5bq7
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5bq7.pdb,AREGGARGFDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+211 5bvj
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5bvj.pdb,ARDLRTGPFDY
+[3, 4, 5] [3]
+[] []
+212 5bzd
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5bzd.pdb,ARGGRKVYHAYWSGYVNNCFDP
+[8, 9, 10] [8]
+[] []
+213 5c2b
+[7, 8, 9, 15] [7, 15]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5c2b.pdb,AREPDYYDSSGYYPIDAFDI
+[7, 8, 9, 15] [7, 15]
+[] []
+214 5c6w
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5c6w.pdb,AREPDYYDSSGYYPIDAFDI
+[7, 8, 9] [7]
+[] []
+215 5cck
+[3, 7, 8, 9, 12, 13, 14, 15, 16] [3, 7, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5cck.pdb,ARPMRPVSHGIDYSGLFVFQF
+[3, 7, 8, 9, 12, 13, 14, 15, 16] [3, 7, 12]
+[] []
+216 5cd3
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5cd3.pdb,VTSRTKDYDWDFV
+[3, 4, 5, 6, 7] [3]
+[] []
+217 5cex
+[10, 11, 12, 13, 14] [10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5cex.pdb,ARTQHGRRIYGIVAFREWFTYFYMDV
+[10, 11, 12, 13, 14] [10]
+[] []
+218 5cey
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5cey.pdb,ATARRGQRIYGVVSFGEFFYYYYMDV
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+219 5cgy
+[3, 4, 5, 6, 7, 8, 9, 13, 14, 15] [3, 13]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5cgy.pdb,ATYYVDLWGSYRQDYYGMDV
+[3, 4, 5, 6, 7, 8, 9, 13, 14, 15] [3, 13]
+[] []
+220 5chn
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5chn.pdb,ARGAHRSIGTTPLDS
+[4, 5, 6] [4]
+[] []
+221 5cip
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5cip.pdb,AREGTTGWGWLGKPIGAFAH
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+222 5dk3
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5dk3.pdb,ARRDYRFDMGFDY
+[3, 4, 5] [3]
+[] []
+223 5drw
+[5, 6, 7, 8, 9, 10, 11, 12, 16] [5, 16]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5drw.pdb,ARGYGDTPTIRRYYYYGMDV
+[5, 6, 7, 8, 9, 10, 11, 12, 16] [5, 16]
+[] []
+224 5drx
+[5, 6, 7, 8, 9, 10, 11, 12, 16] [5, 16]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5drx.pdb,ARGYADTPVFRRYYYYGMDV
+[5, 6, 7, 8, 9, 10, 11, 12, 16] [5, 16]
+[] []
+225 5esa
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5esa.pdb,ARGPLSRGYYDY
+[3, 4, 5, 6] [3]
+[] []
+226 5ewi
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ewi.pdb,VRGPESGWFYHYYWGLGV
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+227 5ezi
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ezi.pdb,ARYGSYVYAMDY
+[3, 4, 5, 6, 7] [3]
+[] []
+228 5ezj
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ezj.pdb,ARYGSYVYAMDY
+[3, 4, 5, 6, 7] [3]
+[] []
+229 5f6h
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5f6h.pdb,AKEGWSYFDF
+[3, 4, 5] [3]
+[] []
+230 5f6i
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5f6i.pdb,AKEGWAYFDY
+[3, 4, 5] [3]
+[] []
+231 5f7e
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5f7e.pdb,ARERSDFWDFDL
+[4, 5, 6] [4]
+[] []
+232 5f89
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5f89.pdb,AREASTKITDDGGAFDF
+[5, 6, 7, 8, 9] [5]
+[] []
+233 5fcs
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5fcs.pdb,ATIDTASAFDI
+[3, 4, 5] [3]
+[] []
+234 5fha
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5fha.pdb,VRSDRGVAGLFDS
+[3, 4, 5, 6, 7] [3]
+[] []
+235 5fhb
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5fhb.pdb,VRASRSYYWGSYRPTAFDS
+[7, 8, 9] [7]
+[] []
+236 5fuz
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5fuz.pdb,ARTVPGYSTAPYFDL
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+237 5ggu
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ggu.pdb,ARDPRGATLYYYYYGMDV
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+238 5gks
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5gks.pdb,ARHRNWLFDY
+[3, 4, 5] [3]
+[] []
+239 5grv
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5grv.pdb,ARFAGGWGAYDV
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+240 5grw
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5grw.pdb,ARFAGGWGAYDV
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+241 5grx
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5grx.pdb,ARFAGGWGAYDV
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+242 5gry
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5gry.pdb,ARFAGGWGAYDV
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+243 5grz
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5grz.pdb,ARFAGGWGAYDV
+[3, 4, 5] [3]
+[] []
+244 5gs1
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5gs1.pdb,ARFAGGWGAYDV
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+245 5gs3
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5gs3.pdb,ARFAGGWGAYDV
+[3, 4, 5, 6] [3]
+[] []
+246 5i15
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i15.pdb,ARYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+247 5i16
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i16.pdb,ARYDGIYGELDF
+[3, 4, 5, 6] [3]
+[] []
+248 5i17
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i17.pdb,ARYDGIYGELDF
+[3, 4, 5, 6] [3]
+[] []
+249 5i18
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i18.pdb,ARYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+250 5i19
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i19.pdb,AKYDGIYGELDF
+[4, 5, 6] [4]
+[] []
+251 5i1a
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1a.pdb,AKYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+252 5i1c
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1c.pdb,AKYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+253 5i1d
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1d.pdb,AKYDGIYGELDF
+[3, 4, 5, 6] [3]
+[] []
+254 5i1e
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1e.pdb,ARYDGIYGELDF
+[4, 5] [4]
+[] []
+255 5i1g
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1g.pdb,ARYDGIYGELDF
+[4, 5] [4]
+[] []
+256 5i1h
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1h.pdb,ARYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+257 5i1i
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1i.pdb,ARYDGIYGELDF
+[3, 4, 5, 6] [3]
+[] []
+258 5i1l
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i1l.pdb,ARYDGIYGELDF
+[3, 4, 5, 6] [3]
+[] []
+259 5i8e
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i8e.pdb,ARDKYYGNEAVGMDV
+[4, 5, 6, 7] [4]
+[] []
+260 5i8k
+[2, 3, 4, 5, 6, 7, 8, 9] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5i8k.pdb,ARGAPAWGTANV
+[2, 3, 4, 5, 6, 7, 8, 9] [2]
+[] []
+261 5ibt
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ibt.pdb,ARVVADREGFGYYYGMDV
+[5, 6, 7, 8] [5]
+[] []
+262 5ibu
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ibu.pdb,ARVVGDREGFGYHYGLDV
+[6, 7, 8] [6]
+[] []
+263 5ifa
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ifa.pdb,AKISGSYSFDY
+[3, 4, 5, 6] [3]
+[] []
+264 5iie
+[6, 7, 8, 9] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5iie.pdb,GRVRFVSGGYYTDRIDS
+[6, 7, 8, 9] [6]
+[] []
+265 5ik3
+[3] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ik3.pdb,TTGHITILDY
+[3] [3]
+[] []
+266 5it2
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5it2.pdb,ARLRMIGFDKNAPLDY
+[5, 6] [5]
+[] []
+267 5itb
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5itb.pdb,ASRLGVRATTGDLDY
+[7, 8, 9] [7]
+[] []
+268 5jny
+[7, 8, 9, 12, 13, 14] [7, 12]
+[11] [11]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jny.pdb,ARTGKYYDFWSGYPPGEEYFQD
+[7, 8, 9, 12, 13, 14] [7, 12]
+[11] [11]
+269 5jo4
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jo4.pdb,ARGLYYYESSLDY
+[3, 4, 5] [3]
+[] []
+270 5jo5
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jo5.pdb,ARTGKYPGEEYFQD
+[5, 6, 7] [5]
+[] []
+271 5jof
+[4, 5, 6, 7, 8, 9, 10, 11] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jof.pdb,ARRGSCDYCGDFPWQY
+[4, 5, 6, 7, 8, 9, 10, 11] [4]
+[] []
+272 5jqd
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jqd.pdb,ARGLYYYESSLDY
+[3, 4, 5] [3]
+[] []
+273 5jr1
+[11, 12, 13] [11]
+[11, 12] [11]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jr1.pdb,ARTGKYYDFWSGYPPGEEYFQD
+[11, 12, 13] [11]
+[11, 12] [11]
+274 5jrp
+[7, 8] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jrp.pdb,ASIYGSGTFYYYFYMDV
+[7, 8] [7]
+[] []
+275 5jw5
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jw5.pdb,ARSGHITVFGVNVDAFDM
+[7, 8, 9] [7]
+[] []
+276 5jxa
+[4, 5, 6, 7, 10, 11] [4, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5jxa.pdb,VRRGSCDYCGDFPWQY
+[4, 5, 6, 7, 10, 11] [4, 10]
+[] []
+277 5k9j
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5k9j.pdb,ARGSAMIFGIVIILES
+[6, 7, 8] [6]
+[] []
+278 5mp6
+[4, 5, 6, 7, 8, 9, 10, 11, 12] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5mp6.pdb,AREASTKITDDGGAFDF
+[4, 5, 6, 7, 8, 9, 10, 11, 12] [4]
+[] []
+279 5nyx
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5nyx.pdb,ARDRFDVASGSSFDF
+[5, 6, 7, 8] [5]
+[] []
+280 5od0
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5od0.pdb,VRIRGGSSNWLDP
+[4, 5, 6] [4]
+[] []
+281 5od8
+[4, 5, 6, 7, 8, 11, 12, 13, 14] [4, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5od8.pdb,ARINTSPILTGYYFPGVHDY
+[4, 5, 6, 7, 8, 11, 12, 13, 14] [4, 11]
+[] []
+282 5odb
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5odb.pdb,SKVRGAAATGYYYGMDV
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+283 5szf
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5szf.pdb,ARGSEFGRLVY
+[3, 4, 5, 6] [3]
+[] []
+284 5tf1
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5tf1.pdb,AREYSSGWYFAY
+[3, 4, 5, 6, 7] [3]
+[] []
+285 5tfs
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5tfs.pdb,ARGWGWYFDL
+[3, 4, 5] [3]
+[] []
+286 5tgb
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5tgb.pdb,ARDGWYSSGWYFDS
+[3, 4, 5, 6, 7] [3]
+[] []
+287 5tpl
+[6, 7, 8, 11, 12, 13] [6, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5tpl.pdb,ARGGWISLYVDYSYYPNFDS
+[6, 7, 8, 11, 12, 13] [6, 11]
+[] []
+288 5tpp
+[7, 8, 11, 12, 13] [7, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5tpp.pdb,VTGAWISDYYDSSYYPNFDH
+[7, 8, 11, 12, 13] [7, 11]
+[] []
+289 5tqa
+[7, 8, 11, 12, 13] [7, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5tqa.pdb,TTGGWISLYYDSSYYPNFDH
+[7, 8, 11, 12, 13] [7, 11]
+[] []
+290 5trp
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5trp.pdb,AREPYDFHSGLEGSLDY
+[5, 6, 7, 8] [5]
+[] []
+291 5ty6
+[6, 7, 8, 11, 16, 17, 18] [6, 11, 16]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ty6.pdb,ARDRGCNSPTCFVIGYYYYGMDV
+[6, 7, 8, 11, 16, 17, 18] [6, 11, 16]
+[] []
+292 5u0r
+[7, 8] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5u0r.pdb,ATGGWIGLYYDSSGYPNFDY
+[7, 8] [7]
+[] []
+293 5u0u
+[7, 11, 12, 13] [7, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5u0u.pdb,TTGGWIGLYSDTSGYPNFDY
+[7, 11, 12, 13] [7, 11]
+[] []
+294 5u15
+[7, 8, 11, 12, 13] [7, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5u15.pdb,ARGGWISLYYDSSGYPNFDY
+[7, 8, 11, 12, 13] [7, 11]
+[] []
+295 5u3p
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5u3p.pdb,TRDEGAPVTRFLEWGSYYYYMAV
+[9, 10, 11, 12, 13, 14] [9]
+[] []
+296 5u4r
+[6, 7, 11, 12, 13, 14, 15, 16, 17, 18] [6, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5u4r.pdb,ARTRLGDIVQAPGVIGYYYGMDV
+[6, 7, 11, 12, 13, 14, 15, 16, 17, 18] [6, 11]
+[] []
+297 5uby
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5uby.pdb,ASHWRYSGGLFDY
+[5, 6, 7] [5]
+[] []
+298 5ubz
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ubz.pdb,VRQWRYSSGSLDC
+[4, 5, 6, 7, 8] [4]
+[] []
+299 5ud9
+[8, 9, 10, 11, 12] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ud9.pdb,ARNAIRIYGVVALGEWFHYGMDV
+[8, 9, 10, 11, 12] [8]
+[] []
+300 5uel
+[3, 4, 5, 6, 9, 10, 11] [3, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5uel.pdb,SRDNFGTRPVPGRGYYYGMDV
+[3, 4, 5, 6, 9, 10, 11] [3, 9]
+[] []
+301 5uix
+[3, 10, 11] [3, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5uix.pdb,ARDRARSTGYFGGIYYYYYGMDV
+[3, 10, 11] [3, 10]
+[] []
+302 5ur8
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5ur8.pdb,ARLSQVSGWSPWVGP
+[5, 6, 7] [5]
+[] []
+303 5uxq
+[14, 15, 16, 17] [14]
+[7, 8, 9, 10, 11, 12, 19, 20, 21, 22, 23] [7, 19]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5uxq.pdb,TRGSKHRLRDYVLYDDYGLINYQEWNDYLEFLDV
+[14, 15, 16, 17] [14]
+[7, 8, 9, 10, 11, 12, 19, 20, 21, 22, 23] [7, 19]
+304 5uy3
+[13, 14, 15, 16, 19] [13, 19]
+[7, 8, 9, 10, 11, 20, 21, 22] [7, 20]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5uy3.pdb,TGGSKHRLRDYVLDDYGLINQQEWNDYLEFLDV
+[13, 14, 15, 16, 19] [13, 19]
+[7, 8, 9, 10, 11, 20, 21, 22] [7, 20]
+305 5v7r
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5v7r.pdb,TRGRSYGFFDY
+[3, 4, 5] [3]
+[] []
+306 5v7u
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5v7u.pdb,VRGHCDGTTCSRAY
+[3, 4, 5, 6, 7] [3]
+[] []
+307 5vr9
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5vr9.pdb,ASRDYDYDGRYFDY
+[5, 6, 7] [5]
+[] []
+308 5vsh
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5vsh.pdb,ARNLGPSFYFDY
+[3, 4, 5] [3]
+[] []
+309 5vsi
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5vsi.pdb,ASRDYDYDGRYFDY
+[5, 6, 7] [5]
+[] []
+310 5vvf
+[5, 6, 7, 8, 12, 13, 14, 15] [5, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5vvf.pdb,AREQRNKDYRYGQEGFGYSYGMDV
+[5, 6, 7, 8, 12, 13, 14, 15] [5, 12]
+[] []
+311 5vz1
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5vz1.pdb,ARWSYSGMDY
+[3, 4, 5] [3]
+[] []
+312 5w1g
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5w1g.pdb,AKDLSPPYSYAWDIFQY
+[3, 4, 5, 6, 7] [3]
+[] []
+313 5w6c
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5w6c.pdb,ATSYVDNWHSGLHWFDP
+[5, 6, 7, 8, 9] [5]
+[] []
+314 5wca
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5wca.pdb,ARDKGLRYFDWLSGGMDV
+[5, 6, 7, 8, 9] [5]
+[] []
+315 5wcc
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5wcc.pdb,ARALKLQFFDWPSHAFDI
+[5, 6, 7, 8] [5]
+[] []
+316 5wcd
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5wcd.pdb,ARDGGLRFLDWPRWGMDV
+[5, 6, 7, 8] [5]
+[] []
+317 5weq
+[7, 8] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5weq.pdb,ASIYGSGTFYYYFYMDV
+[7, 8] [7]
+[] []
+318 5wk2
+[6] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5wk2.pdb,ARVGPADVWDSFDY
+[6] [6]
+[] []
+319 5wkz
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5wkz.pdb,ARHMGYQLRETMDV
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+320 5wl2
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5wl2.pdb,ARHGNYYYYSGMDV
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+321 5wuv
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5wuv.pdb,ARGYRSYAMDY
+[3, 4, 5] [3]
+[] []
+322 5xrq
+[3, 8] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5xrq.pdb,ARGASKVEPAAPAYSDAFDM
+[3, 8] [3, 8]
+[] []
+323 5y2k
+[3, 7, 8, 11] [3, 7, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5y2k.pdb,ARDPLTKLLPFDWVSGGYFDY
+[3, 7, 8, 11] [3, 7, 11]
+[] []
+324 5y9k
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5y9k.pdb,ARSRDLLLFPHHALSP
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+325 5zmj
+[7, 8, 9, 10, 14, 15, 16, 17] [7, 14]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/5zmj.pdb,ATRPPRFYDKTEYWEDGFDV
+[7, 8, 9, 10, 14, 15, 16, 17] [7, 14]
+[] []
+326 6al4
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6al4.pdb,ARRETTTVGRYYYAMDY
+[6, 7, 8] [6]
+[] []
+327 6apc
+[6, 7] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6apc.pdb,ARLGYCSGGSCHFDY
+[6, 7] [6]
+[] []
+328 6arp
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6arp.pdb,ARALTYYDYEFAY
+[3, 4, 5, 6] [3]
+[] []
+329 6avn
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6avn.pdb,ARMGAAREWDFQY
+[3, 4, 5, 6, 7] [3]
+[] []
+330 6azx
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6azx.pdb,TTLLIYESDVGVDF
+[6, 7, 8] [6]
+[] []
+331 6b0w
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6b0w.pdb,ARDPGIAAADNHWFDP
+[4, 5, 6, 7, 8] [4]
+[] []
+332 6b6z
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6b6z.pdb,ARWSYKSGMDY
+[3, 4, 5, 6] [3]
+[] []
+333 6be2
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6be2.pdb,ARDTYYYDSGDYEDAFDI
+[6, 7, 8] [6]
+[] []
+334 6bhz
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6bhz.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+335 6bi0
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6bi0.pdb,SRWGGDGFYAMDY
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+336 6bi2
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6bi2.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+337 6bla
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6bla.pdb,ARALEMGHRSGFPFDY
+[6, 7, 8] [6]
+[] []
+338 6btj
+[6, 7, 8, 9] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6btj.pdb,ARDMPYYHDSGGPLFDL
+[6, 7, 8, 9] [6]
+[] []
+339 6ca6
+[11, 12] [11]
+[7, 8, 9, 14, 15] [7, 14]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ca6.pdb,MTGVERGDFWSDDSQHYNTYLIDV
+[11, 12] [11]
+[7, 8, 9, 14, 15] [7, 14]
+340 6ca7
+[9, 10, 11, 14] [9, 14]
+[6, 7, 8] [6]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ca7.pdb,TTGVETYDFWSGYDDHYDYYFKDV
+[9, 10, 11, 14] [9, 14]
+[6, 7, 8] [6]
+341 6ca9
+[5, 6, 7, 8, 9, 12, 13, 14, 15, 16] [5, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ca9.pdb,TTGVETYDFWSGDDHYDYYFRDV
+[5, 6, 7, 8, 9, 12, 13, 14, 15, 16] [5, 12]
+[] []
+342 6cnr
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6cnr.pdb,ARDRGIGARRGPYYMDV
+[5, 6, 7, 8] [5]
+[] []
+343 6cr1
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6cr1.pdb,AKVSYLSTASSLDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+344 6dcv
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6dcv.pdb,ARLDARVDAGWQLDS
+[5, 6, 7] [5]
+[] []
+345 6dl8
+[3, 7, 8, 9, 10] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6dl8.pdb,ARAGLHPTTTEYYYYGMDV
+[3, 7, 8, 9, 10] [3, 7]
+[] []
+346 6dla
+[3, 7, 8, 9, 10] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6dla.pdb,ARAGLHPTTTDYYYYGMDV
+[3, 7, 8, 9, 10] [3, 7]
+[] []
+347 6dlb
+[3, 7, 8, 9, 10] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6dlb.pdb,ARAGLHPTTTEYYYYGMDV
+[3, 7, 8, 9, 10] [3, 7]
+[] []
+348 6dn0
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6dn0.pdb,SRWGGDGFYAMDV
+[2, 3, 4, 5, 6, 7, 8, 9, 10] [2]
+[] []
+349 6dsi
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6dsi.pdb,AKRGYGSGAFDY
+[3, 4, 5, 6, 7] [3]
+[] []
+350 6dzn
+[3, 7] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6dzn.pdb,AKDHRVWAAGYHFDY
+[3, 7] [3, 7]
+[] []
+351 6e65
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6e65.pdb,TRDLRMSDYFDY
+[3, 4, 5, 6] [3]
+[] []
+352 6ehv
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ehv.pdb,ARDSWERFFEH
+[3, 4, 5] [3]
+[] []
+353 6ehw
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ehw.pdb,ARAPGYSNAYYFDY
+[4, 5, 6, 7] [4]
+[] []
+354 6ehx
+[3, 4, 7] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ehx.pdb,ARAPGYSNAYYFDY
+[3, 4, 7] [3, 7]
+[] []
+355 6ehy
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ehy.pdb,ARAPGYSNAYYFDY
+[4, 5, 6, 7, 8] [4]
+[] []
+356 6ele
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ele.pdb,TRPNYYAMDY
+[3, 4, 5] [3]
+[] []
+357 6elj
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6elj.pdb,TRPNYYGSRYHYYAMDY
+[6, 7, 8] [6]
+[] []
+358 6ell
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ell.pdb,TRPNYYAMDY
+[3, 4, 5] [3]
+[] []
+359 6emj
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6emj.pdb,TRPNYYYAMDY
+[3, 4, 5] [3]
+[] []
+360 6eyn
+0 ERROR (generate_cdrh3_psi_angles) | actual residue = A | output residue = R
+1 ERROR (generate_cdrh3_psi_angles) | actual residue = R | output residue = Q
+2 ERROR (generate_cdrh3_psi_angles) | actual residue = Q | output residue = E
+3 ERROR (generate_cdrh3_psi_angles) | actual residue = E | output residue = Y
+4 ERROR (generate_cdrh3_psi_angles) | actual residue = Y | output residue = R
+5 ERROR (generate_cdrh3_psi_angles) | actual residue = R | output residue = H
+6 ERROR (generate_cdrh3_psi_angles) | actual residue = H | output residue = S
+7 ERROR (generate_cdrh3_psi_angles) | actual residue = S | output residue = W
+8 ERROR (generate_cdrh3_psi_angles) | actual residue = W | output residue = F
+9 ERROR (generate_cdrh3_psi_angles) | actual residue = F | output residue = A
+10 ERROR (generate_cdrh3_psi_angles) | actual residue = A | output residue = Y
+11 ERROR (generate_cdrh3_psi_angles) | actual residue = Y | output residue = W
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6eyn.pdb,ARQEYRHSWFAY
+[3, 4, 5, 6, 7] [3]
+[] []
+361 6ffj
+[6, 7, 8, 9] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ffj.pdb,ARESPRLRRGIYYYAMDY
+[6, 7, 8, 9] [6]
+[] []
+362 6fg1
+[3, 4, 5, 9, 10, 11] [3, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6fg1.pdb,ARPTSEGVAGPSRYYWYFDL
+[3, 4, 5, 9, 10, 11] [3, 9]
+[] []
+363 6fg2
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6fg2.pdb,ARDLWSPDSNYYDQSAFDI
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+364 6foe
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6foe.pdb,AGSQWLYGMDV
+[3, 4, 5] [3]
+[] []
+365 6gfe
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6gfe.pdb,ARMDVPSFRYFDV
+[4, 5, 6] [4]
+[] []
+366 6hkg
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6hkg.pdb,ARMRRTMIAFGGNDF
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+367 6j9o
+[3, 9, 10, 11, 12] [3, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6j9o.pdb,ARDPLTKLLPFDWVSGGYFDY
+[3, 9, 10, 11, 12] [3, 9]
+[] []
+368 6jc2
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6jc2.pdb,ARTGWLGPFDY
+[3, 4, 5, 6] [3]
+[] []
+369 6kr0
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6kr0.pdb,ARSGYYGDSDWYFDV
+[4, 5, 6, 7, 8] [4]
+[] []
+370 6lun
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6lun.pdb,AREDWAEAFDM
+[3, 4, 5, 6] [3]
+[] []
+371 6med
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6med.pdb,ARDGVRYCGGGRCYNWFDP
+[8, 9, 10] [8]
+[] []
+372 6mee
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mee.pdb,ARDLLKYCGGGNCHSLLVDP
+[8, 9, 10] [8]
+[] []
+373 6mef
+[9, 10, 11] [9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mef.pdb,VRSVTPRYCGGGFCYGEFDY
+[9, 10, 11] [9]
+[] []
+374 6meg
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6meg.pdb,ARASQIRGVDY
+[3, 4, 5] [3]
+[] []
+375 6mfj
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mfj.pdb,ATYRIIAAVGYRYFQY
+[6, 7, 8] [6]
+[] []
+376 6mtr
+[7, 8, 9, 15] [7, 15]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mtr.pdb,AKRWDSSGWFSRHSYDYAVDV
+[7, 8, 9, 15] [7, 15]
+[] []
+377 6mts
+[7, 8, 9, 15] [7, 15]
+[9] [9]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mts.pdb,AKRWDSSGWITRHTYDYGVDV
+[7, 8, 9, 15] [7, 15]
+[9] [9]
+378 6mtx
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mtx.pdb,AGLDRFNWNDEGDC
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+379 6mty
+[3, 4, 5, 8, 9, 10] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mty.pdb,AGLDRYSWNEGGDH
+[3, 4, 5, 8, 9, 10] [3, 8]
+[] []
+380 6mxr
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mxr.pdb,SRWGGMMFYAMDY
+[3, 4, 5, 6, 7] [3]
+[] []
+381 6mxs
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6mxs.pdb,SRWGGFMFYAMDY
+[3, 4, 5, 6, 7] [3]
+[] []
+382 6my4
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6my4.pdb,SRWGGMMFYAMDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+383 6my5
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6my5.pdb,SRWGGFMFYAMDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+384 6n32
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6n32.pdb,ARKGSDRLSDNDPFDA
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+385 6nb8
+[3, 6, 9, 10, 11, 12, 13, 14] [3, 6, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6nb8.pdb,VTQRDNSRDYFPHYFHDMDV
+[3, 6, 9, 10, 11, 12, 13, 14] [3, 6, 9]
+[] []
+386 6nis
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6nis.pdb,AGLDRFNWNDEGDC
+[3, 4, 5, 6, 7] [3]
+[] []
+387 6nou
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6nou.pdb,ARYDYFTGTGVY
+[3, 4, 5, 6, 7] [3]
+[] []
+388 6nov
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6nov.pdb,ARYDYFTGTGVY
+[3, 4, 5, 6, 7] [3]
+[] []
+389 6nuz
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6nuz.pdb,TRDRGWLTFDY
+[3, 4, 5, 6] [3]
+[] []
+390 6o3d
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6o3d.pdb,AREGEGWFGKPLRAFEF
+[5, 6, 7, 8] [5]
+[] []
+391 6o3k
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6o3k.pdb,AREGEGWFGRPLRAFEF
+[5, 6, 7, 8] [5]
+[] []
+392 6obz
+[5, 6, 7, 8, 9, 10, 11, 12] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6obz.pdb,ARGTEDLGYCSSGSCPNH
+[5, 6, 7, 8, 9, 10, 11, 12] [5]
+[] []
+393 6oed
+[4] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6oed.pdb,ARRPERHNWLDP
+[4] [4]
+[] []
+394 6okq
+[3, 4, 5, 11] [3, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6okq.pdb,ARLGPGGIFDRWTGHYGDKWLDP
+[3, 4, 5, 11] [3, 11]
+[] []
+395 6p9i
+[5, 6, 9, 10, 11, 12, 13, 14, 15] [5, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6p9i.pdb,ARDWPSITVAVDATNYGMDV
+[5, 6, 9, 10, 11, 12, 13, 14, 15] [5, 9]
+[] []
+396 6p9j
+[6, 7, 10, 14, 15, 16] [6, 10, 14]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6p9j.pdb,AKPHCSSRTCQRVSGYYFGMDV
+[6, 7, 10, 14, 15, 16] [6, 10, 14]
+[] []
+397 6peh
+[7, 8, 9, 10] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6peh.pdb,ARGAVTYDGLGGAYLKHFNL
+[7, 8, 9, 10] [7]
+[] []
+398 6phg
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6phg.pdb,ARVEYYYDSSGYYYDFDY
+[7, 8, 9] [7]
+[] []
+399 6phh
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6phh.pdb,VRVEYYYGSSGYYYDFDS
+[7, 8, 9] [7]
+[] []
+400 6pzg
+[4, 7] [4, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6pzg.pdb,ARVIPGTAVDYFDY
+[4, 7] [4, 7]
+[] []
+401 6pzh
+[3, 4, 5, 8] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6pzh.pdb,AKDKRFITMILVGPFDY
+[3, 4, 5, 8] [3, 8]
+[] []
+402 6q19
+[8, 9, 10, 11, 12, 13] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6q19.pdb,ARAPPYCTSASCPDDYYYYYMDV
+[8, 9, 10, 11, 12, 13] [8]
+[] []
+403 6q1a
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6q1a.pdb,ARAPPYYYYMDV
+[4, 5] [4]
+[] []
+404 6q1e
+[7, 8, 9, 10, 11, 12, 13, 14, 15] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6q1e.pdb,ARAPPYCSSTSCPDDYYYYYMDV
+[7, 8, 9, 10, 11, 12, 13, 14, 15] [7]
+[] []
+405 6q1g
+[7, 8, 9, 12, 13, 14, 15, 16] [7, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6q1g.pdb,AKVPPYCTSASCPDDYYYHYMDV
+[7, 8, 9, 12, 13, 14, 15, 16] [7, 12]
+[] []
+406 6q1j
+[7, 8, 11, 12, 13, 14, 15] [7, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6q1j.pdb,ARAPPYCSSASCPDDYYYFFLDV
+[7, 8, 11, 12, 13, 14, 15] [7, 11]
+[] []
+407 6q1k
+[8, 9, 10, 11, 12, 13] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6q1k.pdb,ARAPPYCTSASCPDDYYYYYMDV
+[8, 9, 10, 11, 12, 13] [8]
+[] []
+408 6qb9
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6qb9.pdb,ARQVGATWAFDI
+[3, 4, 5] [3]
+[] []
+409 6qbc
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6qbc.pdb,ARQVGATWAFDI
+[3, 4, 5, 6] [3]
+[] []
+410 6qcu
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6qcu.pdb,AKSVRLSRPSPFDL
+[3, 4, 5, 6] [3]
+[] []
+411 6qf6
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6qf6.pdb,ARQVGATWAFDI
+[3, 4, 5] [3]
+[] []
+412 6qf9
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6qf9.pdb,ARQVGATWAFDI
+[3, 4, 5] [3]
+[] []
+413 6rco
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6rco.pdb,ARDKHSWSYAFDI
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+414 6rcq
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6rcq.pdb,ARESPNYYDSSGYYSGYYFDY
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [4]
+[] []
+415 6rcs
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6rcs.pdb,ARDGPQQVYYYYGMDV
+[5, 6, 7, 8, 9] [5]
+[] []
+416 6rlm
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6rlm.pdb,AKAVSGYFPYFDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+417 6srv
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6srv.pdb,ARLRADLGLYMDL
+[5, 6] [5]
+[] []
+418 6srx
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6srx.pdb,ARLRADLGLYMDL
+[5, 6] [5]
+[] []
+419 6ss0
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ss0.pdb,ARLRADLGLYMDL
+[5, 6] [5]
+[] []
+420 6ss5
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ss5.pdb,ARLRADLGLYMDL
+[4, 5, 6] [4]
+[] []
+421 6tcm
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tcm.pdb,ARGSHYFGHWHFAV
+[4, 5, 6, 7] [4]
+[] []
+422 6tcn
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tcn.pdb,ARGSHYFGHWHFAV
+[4, 5, 6, 7] [4]
+[] []
+423 6tco
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tco.pdb,ARGSHYFGHWHFAV
+[4, 5, 6, 7] [4]
+[] []
+424 6tcp
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tcp.pdb,ARGSHYFGHWHFAV
+[4, 5] [4]
+[] []
+425 6tcq
+0 ERROR (generate_cdrh3_psi_angles) | actual residue = A | output residue = R
+1 ERROR (generate_cdrh3_psi_angles) | actual residue = R | output residue = G
+2 ERROR (generate_cdrh3_psi_angles) | actual residue = G | output residue = S
+3 ERROR (generate_cdrh3_psi_angles) | actual residue = S | output residue = H
+4 ERROR (generate_cdrh3_psi_angles) | actual residue = H | output residue = Y
+5 ERROR (generate_cdrh3_psi_angles) | actual residue = Y | output residue = F
+6 ERROR (generate_cdrh3_psi_angles) | actual residue = F | output residue = G
+7 ERROR (generate_cdrh3_psi_angles) | actual residue = G | output residue = H
+8 ERROR (generate_cdrh3_psi_angles) | actual residue = H | output residue = W
+9 ERROR (generate_cdrh3_psi_angles) | actual residue = W | output residue = H
+10 ERROR (generate_cdrh3_psi_angles) | actual residue = H | output residue = F
+11 ERROR (generate_cdrh3_psi_angles) | actual residue = F | output residue = A
+12 ERROR (generate_cdrh3_psi_angles) | actual residue = A | output residue = V
+13 ERROR (generate_cdrh3_psi_angles) | actual residue = V | output residue = W
+[5, 6, 7, 11] [5, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tcq.pdb,ARGSHYFGHWHFAV
+[5, 6, 7, 11] [5, 11]
+[] []
+426 6tcr
+ERROR (generate_cdrh3_phi_angles) | actual residue = A | output residue = C
+ERROR (generate_cdrh3_phi_angles) | actual residue = R | output residue = A
+ERROR (generate_cdrh3_phi_angles) | actual residue = G | output residue = R
+ERROR (generate_cdrh3_phi_angles) | actual residue = S | output residue = G
+ERROR (generate_cdrh3_phi_angles) | actual residue = H | output residue = S
+ERROR (generate_cdrh3_phi_angles) | actual residue = Y | output residue = H
+ERROR (generate_cdrh3_phi_angles) | actual residue = F | output residue = Y
+ERROR (generate_cdrh3_phi_angles) | actual residue = G | output residue = F
+ERROR (generate_cdrh3_phi_angles) | actual residue = H | output residue = G
+ERROR (generate_cdrh3_phi_angles) | actual residue = W | output residue = H
+ERROR (generate_cdrh3_phi_angles) | actual residue = H | output residue = W
+ERROR (generate_cdrh3_phi_angles) | actual residue = F | output residue = H
+ERROR (generate_cdrh3_phi_angles) | actual residue = A | output residue = F
+ERROR (generate_cdrh3_phi_angles) | actual residue = V | output residue = A
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tcr.pdb,ARGSHYFGHWHFAV
+[6, 7, 8] [6]
+[] []
+427 6tcs
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tcs.pdb,ARGSHYFGHWHFAV
+[4, 5, 6, 7] [4]
+[] []
+428 6tkb
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tkb.pdb,TRREVYGRNYYALDY
+[5, 6, 7] [5]
+[] []
+429 6tkc
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tkc.pdb,TRREVYYYALDY
+[4, 5, 6] [4]
+[] []
+430 6tkd
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tkd.pdb,TRREVYNYYALDY
+[5, 6] [5]
+[] []
+431 6tke
+[5] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tke.pdb,TRREVYYYALDY
+[5] [5]
+[] []
+432 6tkf
+[5] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tkf.pdb,TRREVYYYALDY
+[5] [5]
+[] []
+433 6tul
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6tul.pdb,ARLRADLGLYMDL
+[5, 6] [5]
+[] []
+434 6u9u
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6u9u.pdb,ARGLWRGYFFWVDV
+[5, 6, 7] [5]
+[] []
+435 6ugs
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ugs.pdb,SRNYYGSTYDY
+[3, 4, 5] [3]
+[] []
+436 6ugt
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ugt.pdb,SRNYYGSTYDY
+[3, 4, 5] [3]
+[] []
+437 6ugu
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ugu.pdb,SRNYYGSTYDY
+[3, 4, 5] [3]
+[] []
+438 6ugv
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ugv.pdb,SRNYYGSTYDY
+[3, 4, 5] [3]
+[] []
+439 6umh
+[8, 9, 10, 19] [8, 19]
+[12] [12]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6umh.pdb,ARDRLNYYDSSGYYHYKYYGMAV
+[8, 9, 10, 19] [8, 19]
+[12] [12]
+440 6umi
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6umi.pdb,ARDRLNYYDSSGYYHYKYYGMAV
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+441 6v4q
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6v4q.pdb,ASIAAAGSFYYYYYMDV
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+442 6v4r
+[6, 7, 8, 9] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6v4r.pdb,ASIAAAGSFYYYYYMDV
+[6, 7, 8, 9] [6]
+[] []
+443 6vi2
+[6, 10, 11, 12] [6, 10]
+[9] [9]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6vi2.pdb,ARYSWPWVSYKPYYGLHFSAMDY
+[6, 10, 11, 12] [6, 10]
+[9] [9]
+444 6vpy
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6vpy.pdb,ASLPRGQLVNAFFDN
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+445 6vun
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6vun.pdb,AQSAITSVTDSAMDH
+[5, 6, 7, 8] [5]
+[] []
+446 6vuo
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6vuo.pdb,AQSAITVTDSAMDH
+[5, 6, 7] [5]
+[] []
+447 6vup
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6vup.pdb,AQSAISAMDH
+[4, 5] [4]
+[] []
+448 6w4w
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6w4w.pdb,TRSDGRNDMDS
+[3, 4, 5] [3]
+[] []
+449 6w5d
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6w5d.pdb,ARVEDTALDHYFDY
+[3, 4, 5, 6] [3]
+[] []
+450 6w73
+[6] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6w73.pdb,ARAKHTVLVTAMRWFDP
+[6] [6]
+[] []
+451 6w7y
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6w7y.pdb,AGGSGISTPMDV
+[3, 4, 5] [3]
+[] []
+452 6wg8
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wg8.pdb,AKDRLSITIRPRYYGLDV
+[6, 7, 8] [6]
+[] []
+453 6wgj
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wgj.pdb,AKDRLSTIRPRYYGLDV
+[6, 7, 8] [6]
+[] []
+454 6wgk
+[6, 7, 8, 9] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wgk.pdb,AKDRLSITIRPRYYGLDV
+[6, 7, 8, 9] [6]
+[] []
+455 6wiy
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wiy.pdb,ARSSINIFGVFVMAMDV
+[6, 7, 8] [6]
+[] []
+456 6wj0
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wj0.pdb,VRGIIFNWPLGGWSFDL
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+457 6wor
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wor.pdb,AKVLQVGRNLVVPLDL
+[7, 8, 9] [7]
+[] []
+458 6wos
+[4, 5, 6, 10, 11, 12] [4, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wos.pdb,AKVGLRGIVMVGGLAMNWLDP
+[4, 5, 6, 10, 11, 12] [4, 10]
+[] []
+459 6wrp
+[3, 8, 9, 10] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wrp.pdb,ARAKWGTMGRGAPPTIYDH
+[3, 8, 9, 10] [3, 8]
+[] []
+460 6wyt
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6wyt.pdb,ARQEGLGYYDS
+[3, 4, 5] [3]
+[] []
+461 6xca
+[2, 3, 4, 5, 6] [2]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6xca.pdb,ARGEGWELPYDY
+[2, 3, 4, 5, 6] [2]
+[] []
+462 6xoc
+[5, 6, 9] [5, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6xoc.pdb,ARLDSGDWYYYGLDY
+[5, 6, 9] [5, 9]
+[] []
+463 6xrj
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6xrj.pdb,ARGMEGLFAAYNSLDV
+[3, 4, 5, 6, 7, 8, 9, 10, 11] [3]
+[] []
+464 6xul
+[3, 4, 5, 9] [3, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6xul.pdb,AKDIRRFSTGGAEFEY
+[3, 4, 5, 9] [3, 9]
+[] []
+465 6y1k
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6y1k.pdb,AGLTQSSHNDAN
+[4, 5, 6, 7] [4]
+[] []
+466 6yxl
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6yxl.pdb,GRSGRTDARRAPVSY
+[4, 5, 6] [4]
+[] []
+467 6z3k
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6z3k.pdb,AREITMIAWFDP
+[3, 4, 5, 6] [3]
+[] []
+468 6ztf
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/6ztf.pdb,ARGEGYGREGFAI
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+469 7aj6
+[7, 8] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7aj6.pdb,VRMGARMSDIAFFSFGD
+[7, 8] [7]
+[] []
+470 7cu7
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7cu7.pdb,ASFQENYFTY
+[3, 4, 5] [3]
+[] []
+471 7dc7
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7dc7.pdb,ARFGRKGDLNWVFDY
+[4, 5, 6, 7, 8, 9, 10] [4]
+[] []
+472 7dun
+[3, 4, 7, 8] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7dun.pdb,AKDKILWFGEPVFDY
+[3, 4, 7, 8] [3, 7]
+[] []
+473 7fab
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7fab.pdb,ARNLIAGGIDV
+[3, 4, 5, 6] [3]
+[] []
+474 7jmx
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7jmx.pdb,ARPPRNYRAEYFQH
+[5, 6] [5]
+[] []
+475 7jxd
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7jxd.pdb,ARVWWLRGSFDY
+[3, 4, 5, 6] [3]
+[] []
+476 7jxe
+[7, 10, 11, 12, 13, 14, 15] [7, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7jxe.pdb,ARPDYQVLGYDFWIGYYGMDV
+[7, 10, 11, 12, 13, 14, 15] [7, 10]
+[] []
+477 7k3q
+[5, 6, 7, 11] [5, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7k3q.pdb,ASPYCSGGSCSDGFDI
+[5, 6, 7, 11] [5, 11]
+[] []
+478 7k8n
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7k8n.pdb,ARDYGDYYFDY
+[3, 4, 5] [3]
+[] []
+479 7k8o
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7k8o.pdb,AKEGRPSDIVVVVAFDY
+[3, 4, 5, 6, 7] [3]
+[] []
+480 7k8p
+[5, 6, 7, 8, 9] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7k8p.pdb,ARSFRDDPRIAVAGPADAFDI
+[5, 6, 7, 8, 9] [5]
+[] []
+481 7k8q
+[4, 5, 9, 15, 16, 17] [4, 9, 15]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7k8q.pdb,ARAPLFPTGVLAGDYYYYGMDV
+[4, 5, 9, 15, 16, 17] [4, 9, 15]
+[] []
+482 7k8r
+[3, 4, 5, 8, 9] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7k8r.pdb,ASSSGYLFHSDY
+[3, 4, 5, 8, 9] [3, 8]
+[] []
+483 7kba
+[4, 5, 6, 7, 8, 9, 10, 11, 12] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7kba.pdb,ARGPHHSDRSGYYGGTFDI
+[4, 5, 6, 7, 8, 9, 10, 11, 12] [4]
+[] []
+484 7kbm
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7kbm.pdb,AQSAITVTDSAMDH
+[5, 6] [5]
+[] []
+485 7kbp
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7kbp.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+486 7ke1
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7ke1.pdb,AKDQISYPAASPLDY
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+487 7kfg
+[8, 9, 10, 11] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7kfg.pdb,ARQINEMATFGEIHYYTYMDV
+[8, 9, 10, 11] [8]
+[] []
+488 7kgu
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7kgu.pdb,SRSYWRYSVDV
+[3, 4, 5] [3]
+[] []
+489 7km6
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7km6.pdb,ARGGEGYYFDY
+[3, 4, 5] [3]
+[] []
+490 7kx4
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7kx4.pdb,VKDPKAWLEPEW
+[4, 5, 6, 7] [4]
+[] []
+491 7kza
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7kza.pdb,AGGSGISTPMDV
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+492 7l77
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7l77.pdb,ARGKRYSASYSNYFGV
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+493 7l79
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7l79.pdb,GRVVDGFNAAGPLEF
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+494 7lk9
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7lk9.pdb,ARDLGTGLFDY
+[3, 4, 5] [3]
+[] []
+495 7lka
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7lka.pdb,ARDLGTGLFDY
+[3, 4, 5, 6] [3]
+[] []
+496 7lud
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7lud.pdb,ARDVPADGVHFMDV
+[4, 5, 6] [4]
+[] []
+497 7lyv
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7lyv.pdb,ARRIRGYSGTYD
+[4, 5, 6, 7] [4]
+[] []
+498 7lyw
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7lyw.pdb,ARDESTGDYYYYMDV
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+499 7mf7
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7mf7.pdb,ARTGKYYDFWSGYPAGEEYFQD
+[7, 8, 9] [7]
+[] []
+500 7mf8
+[7, 8, 9, 12] [7, 12]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7mf8.pdb,ARTGKYYDFWSGYAPGEEYFQD
+[7, 8, 9, 12] [7, 12]
+[] []
+501 7mf9
+[7, 8, 9, 12, 13, 14] [7, 12]
+[10] [10]
+yesHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7mf9.pdb,ARTGKYYDFWSGYAPGEEYFQD
+[7, 8, 9, 12, 13, 14] [7, 12]
+[10] [10]
+502 7mfa
+[7, 8, 9, 10, 11, 12, 13, 14] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7mfa.pdb,ARTGKYYDFWSGYAAGEEYFQD
+[7, 8, 9, 10, 11, 12, 13, 14] [7]
+[] []
+503 7mfb
+[7, 8, 9, 10] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7mfb.pdb,ARTGKYYDFWSGYPPGEEYFQD
+[7, 8, 9, 10] [7]
+[] []
+504 7mu4
+[5, 6, 7, 10] [5, 10]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7mu4.pdb,ARTRCTSNWGYYFDS
+[5, 6, 7, 10] [5, 10]
+[] []
+505 7mx8
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7mx8.pdb,AFAYLWGSYRRRADY
+[5, 6, 7, 8] [5]
+[] []
+506 7myt
+[7, 8, 9, 10] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7myt.pdb,ARAPRIRWGSYRLKQTNFDS
+[7, 8, 9, 10] [7]
+[] []
+507 7n04
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7n04.pdb,ARDDGYYDRSGYYGVFDL
+[7, 8, 9] [7]
+[] []
+508 7n07
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 15] [4, 15]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7n07.pdb,VKGRDYYDSGGYFTVAFDI
+[4, 5, 6, 7, 8, 9, 10, 11, 12, 15] [4, 15]
+[] []
+509 7n3e
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7n3e.pdb,ARGVAVDWYFDL
+[3, 4, 5, 6] [3]
+[] []
+510 7n3f
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7n3f.pdb,ARGVAVDWYFDL
+[4, 5, 6] [4]
+[] []
+511 7n3g
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7n3g.pdb,ARDLYSSGGTDI
+[3, 4, 5, 6] [3]
+[] []
+512 7n3h
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7n3h.pdb,ARDLYSSGGTDI
+[3, 4, 5, 6] [3]
+[] []
+513 7n6p
+[4, 5, 6, 9, 10, 11, 12, 13] [4, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7n6p.pdb,AILGTFNWKSGGNYFGP
+[4, 5, 6, 9, 10, 11, 12, 13] [4, 9]
+[] []
+514 7nc0
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7nc0.pdb,APTTVVPFAY
+[3, 4, 5, 6, 7] [3]
+[] []
+515 7nfa
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7nfa.pdb,APTTVVPFAY
+[3, 4, 5, 6, 7] [3]
+[] []
+516 7pkl
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7pkl.pdb,SRWGGDGFYAMDY
+[4, 5, 6] [4]
+[] []
+517 7ps3
+[5, 6, 7, 8, 9, 10, 11, 12, 13] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7ps3.pdb,ARVGAHDYYDSSDNWFDP
+[5, 6, 7, 8, 9, 10, 11, 12, 13] [5]
+[] []
+518 7rdj
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7rdj.pdb,ARGGPKVYYEYWSGYVNNCFDP
+[8, 9, 10] [8]
+[] []
+519 7rdk
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7rdk.pdb,ARGGPKVYYEYWSGYVNNCFDP
+[8, 9, 10] [8]
+[] []
+520 7rdl
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7rdl.pdb,ARGGRKVYHPYWTGYVNNCFDP
+[8, 9, 10] [8]
+[] []
+521 7re9
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7re9.pdb,ARYYVSLVDI
+[3, 4, 5] [3]
+[] []
+522 7rqp
+[3, 4, 5, 6, 9] [3, 9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7rqp.pdb,HRNFYDGSGPFDY
+[3, 4, 5, 6, 9] [3, 9]
+[] []
+523 7rth
+[3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7rth.pdb,GATRKYVPVRFALDQSSYDY
+[3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17] [3, 7]
+[] []
+524 7s08
+[3, 7, 8, 9, 10, 11] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7s08.pdb,AREGAPRWALKRPSNWFDP
+[3, 7, 8, 9, 10, 11] [3, 7]
+[] []
+525 7s0j
+[5, 6, 7, 8, 9, 10, 11, 12] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7s0j.pdb,ARVGYYDLWSGYSGNWYIDV
+[5, 6, 7, 8, 9, 10, 11, 12] [5]
+[] []
+526 7s8g
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7s8g.pdb,AREIRRASTWSADL
+[5, 6, 7] [5]
+[] []
+527 7sjm
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7sjm.pdb,TRGYDYDYALDY
+[4, 5, 6] [4]
+[] []
+528 7sn1
+[3, 8] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7sn1.pdb,ARDLAYRDYVWRYFDL
+[3, 8] [3, 8]
+[] []
+529 7t97
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7t97.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+530 7t98
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7t98.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+531 7t99
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7t99.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+532 7ti6
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15] [1, 14]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7ti6.pdb,TTGVETYDFWSGYDYDYYFRDV
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15] [1, 14]
+[] []
+533 7tqg
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7tqg.pdb,AREMFDSSADWSPWRGMVA
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+534 7u04
+[6, 7, 8, 9, 10, 11, 12, 13] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7u04.pdb,ARGGRGYDEPWGAYTWLDP
+[6, 7, 8, 9, 10, 11, 12, 13] [6]
+[] []
+535 7u0b
+[8, 9, 10] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7u0b.pdb,AGALPRFCSGGRCSGWFDP
+[8, 9, 10] [8]
+[] []
+536 7u0c
+[9] [9]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7u0c.pdb,ATLHPRLCRGGTCWGWFDP
+[9] [9]
+[] []
+537 7u0k
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7u0k.pdb,VREKSIAEEDNMVRWFDP
+[7, 8, 9] [7]
+[] []
+538 7u5g
+[7, 8, 9] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7u5g.pdb,AREKSVVEPDNMVRWFDP
+[7, 8, 9] [7]
+[] []
+539 7uel
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7uel.pdb,TRDRGWLTFDY
+[3, 4, 5, 6] [3]
+[] []
+540 7ugm
+[8, 9] [8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7ugm.pdb,ATQVKLDSSAGYPFDI
+[8, 9] [8]
+[] []
+541 7ven
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7ven.pdb,ARDIVDAFDF
+[3, 4, 5] [3]
+[] []
+542 7vmz
+[5, 6, 7, 8] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7vmz.pdb,ARWWASVGGAGGGLDY
+[5, 6, 7, 8] [5]
+[] []
+543 7vsu
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7vsu.pdb,AREGKNGAFDI
+[4, 5, 6] [4]
+[] []
+544 7vsw
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7vsw.pdb,AREGKNGAFDI
+[4, 5, 6] [4]
+[] []
+545 7wc0
+[5, 6, 7, 14, 15, 16] [5, 14]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7wc0.pdb,ARGWATYYDILTGYSLFDY
+[5, 6, 7, 14, 15, 16] [5, 14]
+[] []
+546 7wpv
+[7, 8] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7wpv.pdb,AREEQQLVHDYYYYGMDV
+[7, 8] [7]
+[] []
+547 7wvi
+[5, 6, 7, 11, 12] [5, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7wvi.pdb,ARPSAIFGIYIILNGLDV
+[5, 6, 7, 11, 12] [5, 11]
+[] []
+548 7yd3
+[3, 4, 5, 8] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7yd3.pdb,ARGQPPVGWTFDY
+[3, 4, 5, 8] [3, 8]
+[] []
+549 7zf6
+[5, 6, 7, 11] [5, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7zf6.pdb,AAPHCNKTNCYDAFDI
+[5, 6, 7, 11] [5, 11]
+[] []
+550 7zff
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7zff.pdb,AKGAFPGYSSGWYYGLDV
+[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] [3]
+[] []
+551 7zor
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/7zor.pdb,ARWWDYGSSYDYFDY
+[4, 5, 6, 7, 8, 9] [4]
+[] []
+552 8awl
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8awl.pdb,ARERWSGHSYLDY
+[3, 4, 5, 6, 7] [3]
+[] []
+553 8c67
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8c67.pdb,ARSYPHKRWLRPPFDY
+[3, 4, 5, 6, 7, 8, 9] [3]
+[] []
+554 8dkf
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8dkf.pdb,ARDRPVYRYWSGGYHLDP
+[6, 7, 8] [6]
+[] []
+555 8dy0
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8dy0.pdb,AKYDGIYGELDF
+[3, 4, 5] [3]
+[] []
+556 8dy2
+[5, 6] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8dy2.pdb,AKYDGIYGELDF
+[5, 6] [5]
+[] []
+557 8dy3
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8dy3.pdb,ARGDGSTDLDY
+[4, 5, 6, 7, 8] [4]
+[] []
+558 8dy4
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8dy4.pdb,ARDLIHGVTRN
+[3, 4, 5, 6] [3]
+[] []
+559 8ek6
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8ek6.pdb,ARGGLEPRSVDYYYYGMDV
+[5, 6, 7, 8, 9, 10] [5]
+[] []
+560 8ekh
+[4] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8ekh.pdb,ARGGLYGMDV
+[4] [4]
+[] []
+561 8eqa
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8eqa.pdb,ANSIAVSGPLYFHH
+[4, 5, 6, 7] [4]
+[] []
+562 8eqc
+[5, 6, 7, 8, 9, 10, 11] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8eqc.pdb,ARHVTSISSWNRGVYLDS
+[5, 6, 7, 8, 9, 10, 11] [5]
+[] []
+563 8f2t
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8f2t.pdb,ARGSSGAWYFDL
+[3, 4, 5] [3]
+[] []
+564 8f2v
+[3, 4, 5, 8] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8f2v.pdb,ATVRVGASDAFDI
+[3, 4, 5, 8] [3, 8]
+[] []
+565 8fab
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8fab.pdb,ARDPDILTAFSFDY
+[3, 4, 5, 6] [3]
+[] []
+566 8g19
+[7, 8, 9, 10] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8g19.pdb,ARGVSALVSVDYYYYYMDV
+[7, 8, 9, 10] [7]
+[] []
+567 8g1b
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8g1b.pdb,ARDRRDLLTGSLGDY
+[4, 5, 6, 7] [4]
+[] []
+568 8g1c
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8g1c.pdb,VKGQFLEWYNWFDP
+[4, 5, 6, 7] [4]
+[] []
+569 8gbv
+[14, 15, 16, 17] [14]
+[7] [7]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gbv.pdb,ARGRRSRQWIGELPPGNYGLDV
+[14, 15, 16, 17] [14]
+[7] [7]
+570 8gbw
+[10, 14, 15, 16, 17] [10, 14]
+[7] [7]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gbw.pdb,ARGRRSRQWIGDLPPGNHGLDV
+[10, 14, 15, 16, 17] [10, 14]
+[7] [7]
+571 8gbx
+[13, 14, 15, 16] [13]
+[7] [7]
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gbx.pdb,ARGRRSRQWIGDLPPGNQGLDV
+[13, 14, 15, 16] [13]
+[7] [7]
+572 8gby
+[5, 6, 7, 8, 9, 10, 13] [5, 13]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gby.pdb,ARGRRAVRWWAANYGFDV
+[5, 6, 7, 8, 9, 10, 13] [5, 13]
+[] []
+573 8gbz
+[6, 7, 8, 9, 10, 11, 12, 13] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gbz.pdb,ARGRRAIVEPPANYGFDV
+[6, 7, 8, 9, 10, 11, 12, 13] [6]
+[] []
+574 8gc0
+[7, 8, 9, 13, 14, 15, 16, 17] [7, 13]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gc0.pdb,VRGRRATQWWAVEPPANYGFDV
+[7, 8, 9, 13, 14, 15, 16, 17] [7, 13]
+[] []
+575 8gdo
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gdo.pdb,ARADRQDFDH
+[3, 4, 5] [3]
+[] []
+576 8gkk
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gkk.pdb,ARSGYDYDPIYYALDY
+[3, 4, 5, 6, 7, 8, 9, 10] [3]
+[] []
+577 8gpk
+[7, 8] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gpk.pdb,ARWRLMMVDEVTRHGMDV
+[7, 8] [7]
+[] []
+578 8guz
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8guz.pdb,ARRTGREGGWIFDY
+[4, 5] [4]
+[] []
+579 8gv0
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gv0.pdb,ARRTGREEGGWIFDY
+[4, 5, 6, 7, 8] [4]
+[] []
+580 8gv1
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gv1.pdb,ARRKSYGYYLDV
+[3, 4, 5, 6, 7] [3]
+[] []
+581 8gv2
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gv2.pdb,ARRKSYGYYLDV
+[3, 4, 5, 6, 7] [3]
+[] []
+582 8gv4
+[5, 6, 7, 11, 12] [5, 11]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8gv4.pdb,ARPSAIFGIYIILNGLDV
+[5, 6, 7, 11, 12] [5, 11]
+[] []
+583 8jbj
+[4, 5, 6, 7, 8] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8jbj.pdb,ARDFIITVNYPVVDY
+[4, 5, 6, 7, 8] [4]
+[] []
+584 8jep
+[3, 4, 5, 6, 7] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8jep.pdb,ARQTNYDFTMDY
+[3, 4, 5, 6, 7] [3]
+[] []
+585 8jeq
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8jeq.pdb,TRESTTYDLLAGPFDY
+[5, 6, 7] [5]
+[] []
+586 8ojs
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8ojs.pdb,ARAFYYSSGVMFDS
+[5, 6, 7] [5]
+[] []
+587 8ojt
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8ojt.pdb,ARAFYYSSGVMFDS
+[5, 6, 7] [5]
+[] []
+588 8oju
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8oju.pdb,ARAFYYSSGVMFDS
+[5, 6, 7] [5]
+[] []
+589 8ojv
+[5, 6, 7] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8ojv.pdb,ARAFYYSSGVMFDS
+[5, 6, 7] [5]
+[] []
+590 8p2e
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8p2e.pdb,ARSRGSQTFDY
+[3, 4, 5] [3]
+[] []
+591 8sve
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8sve.pdb,ARSMITNWYFDV
+[3, 4, 5] [3]
+[] []
+592 8t58
+[3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8t58.pdb,GATRKYVPVRFALDQSSYDY
+[3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] [3, 7]
+[] []
+593 8t6i
+[7, 8, 9, 10, 11, 12, 13, 14, 15, 16] [7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8t6i.pdb,GATRKYVPVRFALDQSSYDY
+[7, 8, 9, 10, 11, 12, 13, 14, 15, 16] [7]
+[] []
+594 8t7f
+[5, 6, 7, 8, 9, 10, 13, 14, 15] [5, 13]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8t7f.pdb,ARSAASYYGYWHWYHFSPGMDY
+[5, 6, 7, 8, 9, 10, 13, 14, 15] [5, 13]
+[] []
+595 8t7g
+[4, 5] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8t7g.pdb,ARSAAPGMDY
+[4, 5] [4]
+[] []
+596 8t7i
+[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15] [5]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8t7i.pdb,ARSAASYYGYWHWYHFSPGMDY
+[5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15] [5]
+[] []
+597 8t8i
+[3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] [3, 7]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8t8i.pdb,GATRKYVPVRFALDQSSYDY
+[3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] [3, 7]
+[] []
+598 8tfe
+[4, 5, 6, 7] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8tfe.pdb,ARRGYIYGSPFDY
+[4, 5, 6, 7] [4]
+[] []
+599 8ti4
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8ti4.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+600 8tjf
+[3, 4, 5, 6] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8tjf.pdb,SRWGGDGFYAMDY
+[3, 4, 5, 6] [3]
+[] []
+601 8tjt
+[6, 7, 8, 9] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8tjt.pdb,ARSAAIVDWYDYFKGFDY
+[6, 7, 8, 9] [6]
+[] []
+602 8vfu
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8vfu.pdb,SRDRWPYYFDF
+[3, 4, 5] [3]
+[] []
+603 8vk2
+[3, 4, 5, 8, 9, 10] [3, 8]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8vk2.pdb,AKLTGYGSTPGSYMDV
+[3, 4, 5, 8, 9, 10] [3, 8]
+[] []
+604 8vtp
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8vtp.pdb,ARHGYGAMDY
+[3, 4, 5] [3]
+[] []
+605 8vu4
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8vu4.pdb,ARHGYGAMDY
+[3, 4, 5] [3]
+[] []
+606 8vuc
+[3, 4, 5] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8vuc.pdb,ARHGYGAMDY
+[3, 4, 5] [3]
+[] []
+607 8vuz
+[4, 5, 6] [4]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8vuz.pdb,VRLGLLGFYALDY
+[4, 5, 6] [4]
+[] []
+608 8vvb
+[6, 7, 8] [6]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8vvb.pdb,ARAGVRVFGIIVNSLDY
+[6, 7, 8] [6]
+[] []
+609 8xj0
+[3, 4, 5, 6, 7, 8] [3]
+[] []
+noHH,/Users/ssolieva/Desktop/github_repo/Q23_paper/analysis-of-HH/sabdab-validation/sabdab_antibodies/20240804_0567926/imgt/8xj0.pdb,AKVSYLSTASSLDY
+[3, 4, 5, 6, 7, 8] [3]
+[] []

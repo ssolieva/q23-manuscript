@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from math import pi
 import pandas as pd
-from HH_toolbox_turntypeIIIincluded import *
+from axe_toolbox_turntypeIIIincluded import *
 
 pdb_paths_and_cdrh3_seqs = []
 with open(f'pdb_paths_with_cdrh3_seqs_new.txt') as f:

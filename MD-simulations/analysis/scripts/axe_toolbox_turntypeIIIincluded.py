@@ -210,7 +210,7 @@ def generate_dataframe(features):
 
 
 
-# classification / filtering the HH values:
+# classification / filtering the axe values:
 def classify_phi_psi_TypeI(phi,psi):
     classify = []
     for i in range(len(phi)-2):

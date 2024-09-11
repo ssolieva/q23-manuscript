@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from math import pi
 import pandas as pd
-from HH_toolbox_turntypeIIIincluded import *
+from axe_toolbox_turntypeIIIincluded import *
 
 save_path = '/export/home/WG-shahlo/projects/HIV/simulations/simulation_analysis/HH-ratios/data_every10/'
 

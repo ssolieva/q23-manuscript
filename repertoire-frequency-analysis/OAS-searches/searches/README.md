@@ -1,5 +1,3 @@
-CH01       PG9        RM         grepOAS.pl
-
 # Specific scripts for searching the OAS database.
 
 	---> CH01

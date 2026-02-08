@@ -1,0 +1,4 @@
+,donor_name,n_total_seqs,n_all_hits,n_nonredundant_hits,n_redundant_hits,n_total_seqs_minus_n_redundant_hits,original_frequency_estimate,conservative_frequency_estimate
+0,Subject-326713,132075912,1,1,0,132075912,0.007571403330533126,0.007571403330533126
+1,Subject-327059,102853434,1,1,0,102853434,0.009722572801993174,0.009722572801993174
+2,Subject-D103,65645990,3,1,2,65645988,0.04569966878403388,0.015233223392113467

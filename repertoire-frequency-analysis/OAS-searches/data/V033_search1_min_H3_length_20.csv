@@ -1,0 +1,3 @@
+,donor_name,n_total_seqs,n_all_hits,n_nonredundant_hits,n_redundant_hits,n_total_seqs_minus_n_redundant_hits,original_frequency_estimate,conservative_frequency_estimate
+0,Subject-BD3,1843944,19,11,8,1843936,10.304000555331399,5.96549988719782
+1,Subject-CB1,410636,1,1,0,410636,2.435246787909487,2.435246787909487
